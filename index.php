@@ -83,7 +83,11 @@ if (!empty($_SESSION["id"])) {
 </head>
 
 <body>
+  <div>
+    <h1>EDUKIDS</h1>
+  </div>
   <!--<h1>WELCOME, <?php echo $row["name"]; ?></h1>-->
+
 
   <header>
     <div id="mySidenav" class="sidenav">
