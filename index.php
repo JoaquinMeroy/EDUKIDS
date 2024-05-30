@@ -93,7 +93,7 @@ if (!empty($_SESSION["id"])) {
     <div id="mySidenav" class="sidenav">
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
       <a href="Pang-araw-araw na Buhay sa Pilipinas.html">Filipino Food and Snacks</a>
-      <a href="#">Family and Friends</a>
+      <a href="Pamilya at Kaibigan.html">Family and Friends</a>
       <a href="#">Animals and Nature in the Philippines</a>
       <a href="#">Colors and Shapes</a>
       <a href="#">Daily Activities</a>
